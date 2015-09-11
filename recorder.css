@@ -1,0 +1,64 @@
+#main{
+    border:solid black 2px;
+    height:800px;
+    margin-top: 90px;
+    background-color: dimgray;
+}
+#tape{
+    border:solid black 1px;
+    height:200px;
+    margin-top: 20px;
+    background-color: palegoldenrod;
+}
+#apptitle{
+    padding:0;
+    margin-top: 70px;
+    background-color: darkseagreen;
+    text-align: center;
+    border:solid black 1px;
+}
+#apptitle h2{
+    font-weight: bold;
+}
+.track{
+    border:solid black 1px;
+    border-radius: 5px;
+    height:400px;
+    margin-left:30px;
+    margin-top: 40px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.selectbtn{
+    margin:5px;
+}
+#buttons{
+
+    margin-top:40px;
+    height:50px;
+}
+.playbtn{
+    margin-left:10px;
+    height:48px;
+    background-color: lightsteelblue;
+}
+.volumeBar{
+    width:25px;
+    border:0;
+    color:#f6931f;
+    font-weight:bold;
+    border-radius: 5px;
+}
+.volLabel{
+
+}
+.sliderBar{
+    margin:auto;
+}
+#mutebtn{
+    margin-left:40px;
+}
+.tracktitle{
+    font-weight: bold;
+    color: blanchedalmond;
+}
